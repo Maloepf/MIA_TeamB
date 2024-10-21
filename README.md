@@ -29,5 +29,6 @@ Assist healthcare professionals or patients by providing reliable, up-to-date in
 ## Benchmark
 - Open Medical-LLM Leaderboard
 The Open Medical LLM Leaderboard aims to track, rank and evaluate the performance of large language models (LLMs) on medical question answering tasks.
+see : https://huggingface.co/blog/leaderboard-medicalllm
 
 ![image](https://github.com/user-attachments/assets/bb0b8225-e64d-486d-bcb2-6adc019391f7)
