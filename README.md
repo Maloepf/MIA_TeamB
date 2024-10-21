@@ -25,3 +25,7 @@ Assist healthcare professionals or patients by providing reliable, up-to-date in
 - Recommend the active ingredient (molecule) where applicable.
 - Responses must be in French.
 - Give information about the posologie.
+
+## Benchmark
+- Open Medical-LLM Leaderboard
+The Open Medical LLM Leaderboard aims to track, rank and evaluate the performance of large language models (LLMs) on medical question answering tasks
